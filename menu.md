@@ -1,3 +1,4 @@
 Matricola 1149807
-[margherita](margherita.md)
-[capricciosa](capricciosa.md)
+* Pizze:
+	* [margherita](pizze/margherita.md)
+	* [capricciosa](pizze/capricciosa.md)
