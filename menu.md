@@ -4,3 +4,4 @@ Matricola 1149807
 	* [capricciosa](pizze/capricciosa.md)
 * Primi:
 	* [bucatini](primi/bucatini_amatriciana.md)
+	* [spaghetti](primi/spaghetti_carbonara.md)
