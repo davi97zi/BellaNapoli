@@ -3,3 +3,4 @@ Matricola 1149807
 	* [margherita](pizze/margherita.md)
 	* [capricciosa](pizze/capricciosa.md)
 * Primi:
+	* [bucatini](primi/bucatini_amatriciana.md)
